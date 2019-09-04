@@ -1,0 +1,1 @@
+# django_mini2_3
